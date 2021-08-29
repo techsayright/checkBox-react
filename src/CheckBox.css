@@ -1,0 +1,24 @@
+.grid{
+
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.grid input{
+    display: inline-block;
+    width:25px;
+    height: 25px;
+}
+
+.grid label{
+    
+    font-size: xx-large;
+}
+
+button{
+    padding: 20px 30px;
+    font-size: xx-large;
+}
